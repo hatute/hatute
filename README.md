@@ -1,5 +1,5 @@
 ### Hello, world!
-- 🔭 I’m currently working on Brain-inspired Computation & Medical Imaging Informatics
+- 🔭 I’m currently working on 🧠 Brain-Computer Interface & 🖥️ Brain-Inspired Computation
 
 <!--
 **hatute/hatute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
