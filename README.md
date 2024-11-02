@@ -1,5 +1,5 @@
 ### Hello, world!
-- 🔭 I'm an enthusiast of 🧠 Brain-Computer Interfaces and 🦾 Brain-Inspired Computation.
+- 🔭 I'm really into 🧠 Brain-Computer Interfaces and 🦾 Brain-Inspired Computing.
 
 <!--
 **hatute/hatute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
